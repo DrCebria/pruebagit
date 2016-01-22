@@ -11,7 +11,7 @@ public class Pruebagit {
     
         
 // TODO code application logic here
-System.out.println("Pero esto va de verdá?");
+System.out.println("Pero esto va de ?");
     }
     
 }
